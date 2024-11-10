@@ -5,8 +5,8 @@ This repository contains the code for the paper titled "Structured Anchor Learni
 If you find our work useful in your research, please consider citing:
 
 ```bibtex
-@article{zhang2024fast,
-  title={Fast Projected Fuzzy Clustering with Anchor Guidance for Multimodal Remote Sensing Imagery},
+@article{Jiang2024structured,
+  title={Structured Anchor Learning for Large-Scale Hyperspectral Image Projected Clustering},
   author={Jiang, Guozhu and Zhang, Yongshan and Wang, Xinxin and Jiang, Xinwei and Zhang, Lefei},
   journal={Transactions on Circuits and Systems for Video Technology},
   year={2024},
